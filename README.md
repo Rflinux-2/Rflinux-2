@@ -1,7 +1,7 @@
 - 👋 Olá, Meu nome è Renato ou podem me chamar de @Rflinux-2 
-- 
 - 👀 Estou Sempre de Olho em Novas Tecnologias...
 - 🌱 Estou em Aprendizagem constante...
+- 
   👨🏽‍💻 Hoje Atuo com Gestão de Vulnerabilidades
   
 - 📫 Minha Rede Social
