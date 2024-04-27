@@ -2,7 +2,7 @@
 - 👀 Estou Sempre de Olho em Novas Tecnologias...
 - 🌱 Estou em Aprendizagem constante...
   
-  👨🏽‍💻 Hoje Atuo com Gestão de Vulnerabilidades
+- 👨🏽‍💻 Hoje Atuo com Gestão de Vulnerabilidades
   
 - 📫 Minha Rede Social
 - https://www.linkedin.com/in/reantonio/
