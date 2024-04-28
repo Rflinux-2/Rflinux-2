@@ -27,3 +27,13 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Rflinux-2-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
 <img align="center" alt="Rflinux-2-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>             
+
+##
+🐧Algumas Linguagens de Programação Bacanas...
+
+<div>
+<img align="center" alt="Rflinux-2-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img align="center" alt="Rflinux-2-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Rflinux-2-HTML-5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> 
+ <img align="center" alt="Rflinux-2-AWK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original-wordmark.svg" />
+</div>
