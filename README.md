@@ -4,7 +4,7 @@
   
 - 👨🏽‍💻 Hoje Atuo com Gestão de Vulnerabilidades
   
-- 📫 Minha Rede Social
+- 📫 <b>Minha Rede Social</b>
 - https://www.linkedin.com/in/reantonio/
   
 - ![TechnologyGIF](https://github.com/Rflinux-2/Rflinux-2/assets/167919437/ac1c22eb-fc8d-424a-a70c-f4835b2bc9ba)
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rflinux-2&show_icons=true&theme=dark)
 
 
-🐧Minhas Distros Linux Preferidas ...
+🐧<b>Minhas Distros Linux Preferidas ...</b>
 
 <div>
 <img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"/>
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 </div>             
 
 ##
-🐧Algumas Linguagens de Programação Bacanas...
+🐧<b>Algumas Linguagens de Programação Bacanas...</b>
 
 <div>
 <img align="center" alt="Rflinux-2-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
