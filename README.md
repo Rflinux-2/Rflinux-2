@@ -1,4 +1,4 @@
-- 👋 Olá, Meu nome è Renato ou podem me chamar de @Rflinux-2 
+- 👋 Olá, Meu nome è Renato ou podem me chamar de Rflinux-2 
 - 👀 Estou Sempre de Olho em Novas Tecnologias...
 - 🌱 Estou em Aprendizagem constante...
   
@@ -16,3 +16,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rflinux-2&show_icons=true&theme=dark)
+
+
+🐧Minhas Distros Linux Preferidas ...
+
+<div>
+<img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"/>
+<img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" />
+<img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" />
+<img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" />
+<img align="center" alt="Rflinux-2-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+</div>             
