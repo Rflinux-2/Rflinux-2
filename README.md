@@ -1,4 +1,5 @@
-- 👋 <b> Olá, Meu nome è Renato ou podem me chamar de Rflinux-2 </b>
+- 👋 <b> Olá, Meu nome è Renato ou podem me chamar de Rflinux-2,
+Possuo experiência nessa área já tendo trabalhado em diversos provedores de internet e empresas no estado de São Paulo inclusive para o Governo do Estado de São Paulo. </b>
 - 👀 Estou Sempre de Olho em Novas Tecnologias...
 - 🌱 Estou em Aprendizagem constante...
   
