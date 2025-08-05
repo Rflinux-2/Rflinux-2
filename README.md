@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia, com experiência em provedores de internet e empr
 - Linux Administraçaõ
 
 ## 📫 Contato
-- [LinkedIn](#) [Adicione o link do seu LinkedIn aqui](https://www.linkedin.com/in/reantonio/) -->
+- [LinkedIn](#) [Adicione o link do seu LinkedIn aqui](https://www.linkedin.com/in/reantonio/)
 - Email: <!-- Adicione seu email aqui se desejar -->
 
 ## ⚡ Curiosidades
