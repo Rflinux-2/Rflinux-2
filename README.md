@@ -1,14 +1,32 @@
-- 👋 <b> Olá, Meu nome è Renato ou podem me chamar de Rflinux-2,
-Possuo experiência nessa área já tendo trabalhado em diversos provedores de internet e empresas no estado de São Paulo inclusive para o Governo do Estado de São Paulo. </b>
-- 👀 Estou Sempre de Olho em Novas Tecnologias...
-- 🌱 Estou em Aprendizagem constante...
-  
-- 👨🏽‍💻 Hoje Atuo com Gestão de Vulnerabilidades
-  
-- 📫 <b>Minha Rede Social</b>
-- https://www.linkedin.com/in/reantonio/
-  
-- ![TechnologyGIF](https://github.com/Rflinux-2/Rflinux-2/assets/167919437/ac1c22eb-fc8d-424a-a70c-f4835b2bc9ba)
+# 👋 Olá! Eu sou o Renato (Rflinux-2)
+
+Sou apaixonado por tecnologia, com experiência em provedores de internet e empresas renomadas no estado de São Paulo, incluindo atuação para o Governo do Estado. Estou sempre de olho em novas tendências e buscando me aprimorar.
+
+## 🚀 Sobre mim
+- 👨🏽‍💻 **Atualmente atuo com Gestão de Vulnerabilidades**
+- 🤖 **Conhecimento em Inteligência Artificial**
+- 🌱 **Aprendizado constante**
+- 👀 **Interesse em novas tecnologias**
+
+## 💡 Experiência
+- Provedores de internet
+- Empresas privadas e públicas (incluindo Governo do Estado de SP)
+
+## 🛠️ Skills
+- Segurança da informação
+- Gestão de vulnerabilidades
+- Inteligência Artificial
+- Linux Administraçaõ
+
+## 📫 Contato
+- [LinkedIn](#) [Adicione o link do seu LinkedIn aqui](https://www.linkedin.com/in/reantonio/) -->
+- Email: <!-- Adicione seu email aqui se desejar -->
+
+## ⚡ Curiosidades
+- Sempre atento às novidades do universo tech!
+- Fã de automação e análise de dados.
+
+---
 
 
 <!---
