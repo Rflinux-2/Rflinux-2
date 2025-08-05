@@ -13,10 +13,11 @@ Sou apaixonado por tecnologia, com experiência em provedores de internet e empr
 - Empresas privadas e públicas (incluindo Governo do Estado de SP)
 
 ## 🛠️ Skills
-- Segurança da informação
+- Cyber Security
 - Gestão de vulnerabilidades
 - Inteligência Artificial
-- Linux Administraçaõ
+- Linux Expert
+- Cyber thread Intelligence
 
 ## 📫 Contato
 - [LinkedIn](#) https://www.linkedin.com/in/reantonio/
