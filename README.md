@@ -25,7 +25,8 @@ Sou apaixonado por tecnologia, com experiência em provedores de internet e empr
 
 ## ⚡ Curiosidades
 - Sempre atento às novidades do universo tech!
-- Fã de automação e análise de dados.
+- Fã de Automação Residencial.
+- Automação Residencial com HOMEASSISTENT
 
 ---
 
